@@ -1,4 +1,4 @@
-# Tuya PWS → Windy Bridge
+# Tuya Weather Station Data → Windy Personal Weather Stations
 
 A Home Assistant [pyscript](https://github.com/custom-components/pyscript) app that pulls live readings from a Tuya-connected personal weather station and pushes them to [Windy Personal Weather Stations (PWS)](https://stations.windy.com/), so your station shows up on Windy's live map.
 
